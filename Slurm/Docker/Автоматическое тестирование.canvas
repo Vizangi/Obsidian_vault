@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"d3479dff52fcb389","type":"text","text":"Local override\ndocker-compose-override.yml","x":-540,"y":-140,"width":250,"height":80},
+		{"id":"65ee704a64514614","type":"text","text":"Base\ndocker-compose.yml","x":-160,"y":-140,"width":250,"height":80},
+		{"id":"fefc1807d388ab2b","type":"text","text":"Test\ndocker-compose-test.yml","x":220,"y":-140,"width":250,"height":80},
+		{"id":"637a07243c8cf31e","type":"file","file":"Slurm/Local override.md","x":-540,"y":-60,"width":250,"height":260},
+		{"id":"3bd4ad517b00a523","type":"file","file":"Slurm/Base.md","x":-160,"y":-60,"width":250,"height":160},
+		{"id":"f8bb10cfaadc3444","x":220,"y":-60,"width":250,"height":400,"type":"file","file":"Slurm/Test.md"}
+	],
+	"edges":[
+		{"id":"dd9a0f6d000067c6","fromNode":"d3479dff52fcb389","fromSide":"right","toNode":"65ee704a64514614","toSide":"left"},
+		{"id":"e9f37fccd4e2ccca","fromNode":"65ee704a64514614","fromSide":"left","toNode":"d3479dff52fcb389","toSide":"right"},
+		{"id":"f858900c48f8b3f1","fromNode":"65ee704a64514614","fromSide":"right","toNode":"fefc1807d388ab2b","toSide":"left"},
+		{"id":"45be35256326f00a","fromNode":"fefc1807d388ab2b","fromSide":"left","toNode":"65ee704a64514614","toSide":"right"}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"3dfdabced3fed38e","x":40,"y":-30,"width":120,"height":170,"color":"4","type":"text","text":"inventory\n[group A]\nhost 1\n[group B]\nhost 1\nhost N"},
+		{"id":"a17a9566ece4957f","x":300,"y":-260,"width":250,"height":60,"type":"text","text":"Host 2 (group B)"},
+		{"id":"bfb190f3718681af","x":300,"y":-400,"width":250,"height":60,"type":"text","text":"Host 1 (group A)"},
+		{"id":"7f31daf3e65dcf53","x":300,"y":-120,"width":250,"height":60,"type":"text","text":"Host N (group B)"},
+		{"id":"6eb1bb14913f2b5d","x":-85,"y":-260,"width":185,"height":60,"type":"text","text":"Ansible\nManagement node"},
+		{"id":"e03e8aaa49489180","x":-147,"y":-30,"width":125,"height":60,"color":"4","type":"text","text":"Playbook"}
+	],
+	"edges":[
+		{"id":"92625b8c2a2f8c88","fromNode":"e03e8aaa49489180","fromSide":"top","toNode":"6eb1bb14913f2b5d","toSide":"bottom"},
+		{"id":"0b7b72de7a51a363","fromNode":"3dfdabced3fed38e","fromSide":"top","toNode":"6eb1bb14913f2b5d","toSide":"bottom"},
+		{"id":"b31a8caec2c59702","fromNode":"6eb1bb14913f2b5d","fromSide":"right","toNode":"bfb190f3718681af","toSide":"left","label":"ssh"},
+		{"id":"e9b0150835b5b5c1","fromNode":"6eb1bb14913f2b5d","fromSide":"right","toNode":"a17a9566ece4957f","toSide":"left","label":"ssh"},
+		{"id":"9994c43e0066f699","fromNode":"6eb1bb14913f2b5d","fromSide":"right","toNode":"7f31daf3e65dcf53","toSide":"left","label":"ssh"}
+	]
+}
