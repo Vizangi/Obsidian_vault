@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Slurm/Kubernetes. Базовый уровнь/2.7 Проверки работоспособности и Ресурсы.md",
+                "file": "Monitoring/Вопросы после.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.7 Проверки работоспособности и Ресурсы"
+              "title": "Вопросы после"
             }
           }
         ]
@@ -188,6 +188,11 @@
   },
   "active": "2e591d2d63155fc0",
   "lastOpenFiles": [
+    "Monitoring/Предподготовка.md",
+    "Monitoring/Вопросы после.md",
+    "Без названия.md",
+    "Monitoring",
+    "Slurm/Kubernetes. Базовый уровнь/2.7 Проверки работоспособности и Ресурсы.md",
     "Pasted image 20260909210614.png",
     "Pasted image 20260909210137.png",
     "Slurm/Kubernetes. Базовый уровнь/2.6 Deployment.md",
@@ -198,9 +203,7 @@
     "Pasted image 20260907185821.png",
     "Pasted image 20260907185223.png",
     "Pasted image 20260907182205.png",
-    "Slurm/Kubernetes. Базовый уровнь/2.7 Проверки работоспособности и Ресурсы.md",
     "Pasted image 20260727205201.png",
-    "Pasted image 20260727205134.png",
     "Slurm/Kubernetes. Базовый уровнь/2.5 ReplicaSet.md",
     "Библиотека/Шаблоны/Шаблон книги.md.md",
     "Библиотека/Через много лет. Олдос Хаксли/Через много лет. Олдос Хаксли..md",
@@ -231,13 +234,10 @@
     "Slurm/Docker/Docker Engine.excalidraw.md",
     "Slurm/Docker/2.1 Работа с Docker.md",
     "Slurm/Docker/Автоматическое тестирование.canvas",
-    "Slurm/Docker/Начало. Docker.md",
     "Slurm/Docker/Схема работы с Docker.canvas",
-    "Slurm/Docker/Dockerfile.md",
     "Slurm/Docker",
     "Slurm/Ansible. IaC/Схема работы.canvas",
     "Slurm/Vagrant",
-    "Slurm/Ansible. IaC",
-    "Без названия 1"
+    "Slurm/Ansible. IaC"
   ]
 }
