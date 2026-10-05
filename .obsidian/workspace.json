@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Monitoring/Установка OC и подготовка.md",
+                "file": "Monitoring/1. Prometheus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Установка OC и подготовка"
+              "title": "1. Prometheus"
             }
           }
         ]
