@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Monitoring/1. Prometheus.md",
+                "file": "Monitoring/Установка OC и подготовка.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Prometheus"
+              "title": "Установка OC и подготовка"
             }
           }
         ]
@@ -188,9 +188,9 @@
   },
   "active": "2e591d2d63155fc0",
   "lastOpenFiles": [
+    "Monitoring/Предподготовка.md",
     "Monitoring/Установка OC и подготовка.md",
     "Monitoring/1. Prometheus.md",
-    "Monitoring/Предподготовка.md",
     "Без названия.md",
     "Monitoring",
     "Slurm/Kubernetes. Базовый уровнь/2.7 Проверки работоспособности и Ресурсы.md",
