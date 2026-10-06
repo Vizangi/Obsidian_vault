@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Monitoring/Предподготовка к установке ОС.md",
+                "file": "Monitoring/1. Prometheus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Предподготовка к установке ОС"
+              "title": "1. Prometheus"
             }
           }
         ],
@@ -201,8 +201,8 @@
   },
   "active": "efb14369bd0c335a",
   "lastOpenFiles": [
-    "Monitoring/Разбор команд.md",
     "Monitoring/Предподготовка к установке ОС.md",
+    "Monitoring/Разбор команд.md",
     "Monitoring/1. Prometheus.md",
     "Скрины/Pasted image 20260727163618.png",
     "Скрины/Pasted image 20260727163811.png",
