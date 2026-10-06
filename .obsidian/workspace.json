@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Monitoring/Предподготовка.md",
+                "file": "Monitoring/Разбор команд.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Предподготовка"
+              "title": "Разбор команд"
             }
           }
         ]
@@ -188,8 +188,8 @@
   },
   "active": "2e591d2d63155fc0",
   "lastOpenFiles": [
-    "Monitoring/Установка OC и подготовка.md",
     "Monitoring/Предподготовка.md",
+    "Monitoring/Разбор команд.md",
     "Monitoring/1. Prometheus.md",
     "Без названия.md",
     "Monitoring",
