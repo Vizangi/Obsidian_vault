@@ -1,0 +1,1 @@
+tar xf app-${APP_VERSION#v}.linux-amd64.tar.gz

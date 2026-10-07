@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Команды/curl.md",
+                "file": "Linux/Команды/useradd.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "curl"
+              "title": "useradd"
             }
           }
         ]
@@ -188,8 +188,11 @@
   },
   "active": "efb14369bd0c335a",
   "lastOpenFiles": [
-    "Monitoring/Разбор команд.md",
+    "Linux/Команды/mkdir.md",
+    "Linux/Команды/useradd.md",
+    "Linux/Команды/tar.md",
     "Linux/Команды/curl.md",
+    "Monitoring/Разбор команд.md",
     "Linux/Команды",
     "Без названия",
     "Linux",
@@ -231,10 +234,7 @@
     "Slurm/Deploy.md",
     "Slurm/Build.md",
     "Slurm/Схемы",
-    "Slurm/Kubernetes. Базовый уровнь/Kubernetes workflow.md",
-    "Slurm/Kubernetes. Базовый уровнь/Глоссарий Kubernetes.md",
     "Без названия 1.canvas",
-    "Slurm/Docker/3.1 Технология Docker.md",
     "Без названия.canvas",
     "Slurm/Docker/Автоматическое тестирование.canvas",
     "Slurm/Docker/Схема работы с Docker.canvas",
