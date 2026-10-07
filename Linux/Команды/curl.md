@@ -1,2 +1,6 @@
->[tip] bash
->
+>[!tip] bash
+>```
+>curl <url>      #
+>```
+
+
