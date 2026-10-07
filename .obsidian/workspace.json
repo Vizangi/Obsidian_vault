@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Monitoring/Предподготовка к установке ОС.md",
+                "file": "Linux/Команды/curl.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Предподготовка к установке ОС"
+              "title": "curl"
             }
           }
         ]
@@ -189,6 +189,10 @@
   "active": "efb14369bd0c335a",
   "lastOpenFiles": [
     "Monitoring/Разбор команд.md",
+    "Linux/Команды/curl.md",
+    "Linux/Команды",
+    "Без названия",
+    "Linux",
     "Monitoring/Предподготовка к установке ОС.md",
     "Slurm/Ansible. IaC/1.3 Установка Ansible.md",
     "Slurm/Схемы/Pasted Image 20260513222309_152.png",
@@ -231,13 +235,9 @@
     "Slurm/Kubernetes. Базовый уровнь/Глоссарий Kubernetes.md",
     "Без названия 1.canvas",
     "Slurm/Docker/3.1 Технология Docker.md",
-    "Slurm/Kubernetes. Базовый уровнь",
-    "Slurm/Docker/Контейнер.excalidraw.md",
     "Без названия.canvas",
     "Slurm/Docker/Автоматическое тестирование.canvas",
     "Slurm/Docker/Схема работы с Docker.canvas",
-    "Slurm/Docker",
-    "Slurm/Ansible. IaC/Схема работы.canvas",
-    "Slurm/Vagrant"
+    "Slurm/Ansible. IaC/Схема работы.canvas"
   ]
 }
