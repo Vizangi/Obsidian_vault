@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Команды/useradd.md",
+                "file": "Monitoring/2. Grafana.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "useradd"
+              "title": "2. Grafana"
             }
           }
         ]
@@ -188,8 +188,10 @@
   },
   "active": "efb14369bd0c335a",
   "lastOpenFiles": [
-    "Linux/Команды/mkdir.md",
+    "Monitoring/1. Prometheus.md",
+    "Monitoring/2. Grafana.md",
     "Linux/Команды/useradd.md",
+    "Linux/Команды/mkdir.md",
     "Linux/Команды/tar.md",
     "Linux/Команды/curl.md",
     "Monitoring/Разбор команд.md",
@@ -200,7 +202,6 @@
     "Slurm/Ansible. IaC/1.3 Установка Ansible.md",
     "Slurm/Схемы/Pasted Image 20260513222309_152.png",
     "Скрины/Pasted image 20260727163618.png",
-    "Monitoring/1. Prometheus.md",
     "Скрины/Pasted image 20260727163811.png",
     "Скрины",
     "Без названия.md",
@@ -232,7 +233,6 @@
     "Slurm/Docker/1.1 Введение в Docker.md",
     "Slurm/Local development..md",
     "Slurm/Deploy.md",
-    "Slurm/Build.md",
     "Slurm/Схемы",
     "Без названия 1.canvas",
     "Без названия.canvas",
