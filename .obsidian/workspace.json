@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Команды/systemctl.md",
+                "file": "Monitoring/2. Grafana.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "systemctl"
+              "title": "2. Grafana"
             }
           }
         ]
@@ -188,8 +188,8 @@
   },
   "active": "efb14369bd0c335a",
   "lastOpenFiles": [
-    "Linux/Команды/Journalctl.md",
     "Linux/Команды/systemctl.md",
+    "Linux/Команды/Journalctl.md",
     "Monitoring/Разбор команд.md",
     "Monitoring/Предподготовка к установке ОС.md",
     "Monitoring/2. Grafana.md",
