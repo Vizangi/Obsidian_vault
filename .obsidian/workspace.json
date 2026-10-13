@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Monitoring/2. Grafana.md",
+                "file": "Monitoring/3. Node exporter.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Grafana"
+              "title": "3. Node exporter"
             }
           }
         ]
@@ -188,8 +188,8 @@
   },
   "active": "efb14369bd0c335a",
   "lastOpenFiles": [
-    "Monitoring/3. Node exporter.md",
     "Monitoring/2. Grafana.md",
+    "Monitoring/3. Node exporter.md",
     "Linux/Команды/systemctl.md",
     "Linux/Команды/Journalctl.md",
     "Monitoring/Разбор команд.md",
