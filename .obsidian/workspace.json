@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Часть 1. Теория"
             }
+          },
+          {
+            "id": "bbad38cd3cae6a9e",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "SRE/скрины/Pasted image 20261020163618.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20261020163618"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -186,19 +199,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "efb14369bd0c335a",
+  "active": "2415bd23d8245ac7",
   "lastOpenFiles": [
-    "Pasted image 20261020175919.png",
-    "Pasted image 20261020171356.png",
-    "Pasted image 20261020171005.png",
-    "Pasted image 20261020170534.png",
-    "Pasted image 20261020165935.png",
-    "Pasted image 20261020165848.png",
-    "Pasted image 20261020165352.png",
-    "Pasted image 20261020164600.png",
-    "Pasted image 20261020163618.png",
-    "Monitoring/5. Custom exporter.md",
     "SRE/Часть 1. Теория.md",
+    "SRE/скрины",
+    "SRE/скрины/Pasted image 20261020175919.png",
+    "SRE/скрины/Pasted image 20261020171356.png",
+    "SRE/скрины/Pasted image 20261020171005.png",
+    "SRE/скрины/Pasted image 20261020170534.png",
+    "SRE/скрины/Pasted image 20261020165935.png",
+    "SRE/скрины/Pasted image 20261020165848.png",
+    "SRE/скрины/Pasted image 20261020165352.png",
+    "SRE/скрины/Pasted image 20261020164600.png",
+    "SRE/скрины/Pasted image 20261020163618.png",
+    "Monitoring/5. Custom exporter.md",
     "SRE",
     "Monitoring/4. Process exporter.md",
     "Monitoring/3. Node exporter.md",
@@ -216,7 +230,6 @@
     "Linux",
     "Slurm/Ansible. IaC/1.3 Установка Ansible.md",
     "Slurm/Схемы/Pasted Image 20260513222309_152.png",
-    "Скрины/Pasted image 20260727163618.png",
     "Скрины",
     "Без названия.md",
     "Monitoring",
@@ -233,7 +246,6 @@
     "Без названия.base",
     "Slurm/Base.md",
     "Библиотека",
-    "Slurm/Схемы",
     "Без названия 1.canvas",
     "Без названия.canvas",
     "Slurm/Docker/Автоматическое тестирование.canvas",
