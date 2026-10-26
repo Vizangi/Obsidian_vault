@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SRE/Часть 2..md",
+                "file": "Monitoring/5. Custom exporter.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Часть 2."
+              "title": "5. Custom exporter"
             }
           }
         ],
@@ -201,8 +201,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2415bd23d8245ac7",
+  "active": "bbad38cd3cae6a9e",
   "lastOpenFiles": [
+    "SRE/Часть 2..md",
     "SRE/Без названия",
     "SRE/скрины/Pasted image 20261022170331.png",
     "SRE/скрины/Pasted image 20261022170045.png",
@@ -214,7 +215,6 @@
     "SRE/скрины/Pasted image 20261022163751.png",
     "SRE/скрины/Pasted image 20261022163441.png",
     "SRE/скрины/Pasted image 20261022162629.png",
-    "SRE/Часть 2..md",
     "SRE/Часть 1. Теория.md",
     "SRE/скрины",
     "Monitoring/5. Custom exporter.md",
@@ -248,7 +248,6 @@
     "Slurm/Kubernetes. Базовый уровнь/2. Знакомство с Kubernetes..md",
     "Без названия.base",
     "Slurm/Base.md",
-    "Библиотека",
     "Без названия 1.canvas",
     "Без названия.canvas",
     "Slurm/Docker/Автоматическое тестирование.canvas",
