@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Monitoring/5. Custom exporter.md",
+                "file": "SRE/Часть 3. Error budget.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5. Custom exporter"
+              "title": "Часть 3. Error budget"
             }
           }
         ],
@@ -203,6 +203,13 @@
   },
   "active": "bbad38cd3cae6a9e",
   "lastOpenFiles": [
+    "Pasted image 20261027160750.png",
+    "Pasted image 20261027160651.png",
+    "Pasted image 20261027160646.png",
+    "Pasted image 20261027160504.png",
+    "Pasted image 20261027160412.png",
+    "Monitoring/5. Custom exporter.md",
+    "SRE/Часть 3. Error budget.md",
     "SRE/Часть 2..md",
     "SRE/Без названия",
     "SRE/скрины/Pasted image 20261022170331.png",
@@ -211,13 +218,8 @@
     "SRE/скрины/Pasted image 20261022164916.png",
     "SRE/скрины/Pasted image 20261022164437.png",
     "SRE/скрины/Pasted image 20261022164239.png",
-    "SRE/скрины/Pasted image 20261022164236.png",
-    "SRE/скрины/Pasted image 20261022163751.png",
-    "SRE/скрины/Pasted image 20261022163441.png",
-    "SRE/скрины/Pasted image 20261022162629.png",
     "SRE/Часть 1. Теория.md",
     "SRE/скрины",
-    "Monitoring/5. Custom exporter.md",
     "SRE",
     "Monitoring/4. Process exporter.md",
     "Monitoring/3. Node exporter.md",
@@ -247,7 +249,6 @@
     "Slurm/Kubernetes. Базовый уровнь/2.3 Работа кластера.md",
     "Slurm/Kubernetes. Базовый уровнь/2. Знакомство с Kubernetes..md",
     "Без названия.base",
-    "Slurm/Base.md",
     "Без названия 1.canvas",
     "Без названия.canvas",
     "Slurm/Docker/Автоматическое тестирование.canvas",
