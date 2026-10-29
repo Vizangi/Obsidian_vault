@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SRE/Часть 3. Error budget.md",
+                "file": "SRE/Часть 4..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Часть 3. Error budget"
+              "title": "Часть 4."
             }
           }
         ],
@@ -201,8 +201,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2415bd23d8245ac7",
+  "active": "bbad38cd3cae6a9e",
   "lastOpenFiles": [
+    "SRE/Часть 3. Error budget.md",
+    "SRE/Часть 4..md",
     "SRE/скрины/Pasted image 20261027170944.png",
     "SRE/скрины/Pasted image 20261027170930.png",
     "SRE/скрины/Pasted image 20261027170139.png",
@@ -213,9 +215,7 @@
     "SRE/скрины/Pasted image 20261027162236.png",
     "SRE/скрины/Pasted image 20261027161654.png",
     "SRE/скрины/Pasted image 20261027161227.png",
-    "SRE/скрины/Pasted image 20261027160750.png",
     "Monitoring/5. Custom exporter.md",
-    "SRE/Часть 3. Error budget.md",
     "SRE/Часть 2..md",
     "SRE/Без названия",
     "SRE/Часть 1. Теория.md",
