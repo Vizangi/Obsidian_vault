@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SRE/Часть 1. Теория.md",
+                "file": "SRE/Часть 4. Observability.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Часть 1. Теория"
+              "title": "Часть 4. Observability"
             }
           },
           {
@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SRE/Часть 4. Observability.md",
+                "file": "SRE/Часть 2..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Часть 4. Observability"
+              "title": "Часть 2."
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -201,8 +200,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bbad38cd3cae6a9e",
+  "active": "efb14369bd0c335a",
   "lastOpenFiles": [
+    "Pasted image 20261029164147.png",
+    "SRE/Часть 2..md",
+    "SRE/Часть 1. Теория.md",
+    "SRE/Часть 4. Observability.md",
     "Pasted image 20261029163731.png",
     "Pasted image 20261029163423.png",
     "Pasted image 20261029163204.png",
@@ -212,14 +215,10 @@
     "Pasted image 20261029161617.png",
     "Pasted image 20261029160732.png",
     "SRE/Часть 3. Error budget.md",
-    "SRE/Часть 4. Observability.md",
     "SRE/скрины/Pasted image 20261027170944.png",
     "SRE/скрины/Pasted image 20261027170930.png",
-    "SRE/скрины/Pasted image 20261027170139.png",
     "Monitoring/5. Custom exporter.md",
-    "SRE/Часть 2..md",
     "SRE/Без названия",
-    "SRE/Часть 1. Теория.md",
     "SRE/скрины",
     "SRE",
     "Monitoring/4. Process exporter.md",
