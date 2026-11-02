@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SRE/Часть 4. Observability.md",
+                "file": "SRE/Часть 5. SRE Foundation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Часть 4. Observability"
+              "title": "Часть 5. SRE Foundation"
             }
           },
           {
@@ -202,12 +202,13 @@
   },
   "active": "2415bd23d8245ac7",
   "lastOpenFiles": [
+    "SRE/Часть 4. Observability.md",
+    "SRE/Часть 5. SRE Foundation.md",
     "SRE/скрины/Pasted image 20261029180314.png",
     "SRE/скрины/Pasted image 20261029164909.png",
     "SRE/скрины/Pasted image 20261029164147.png",
     "SRE/Часть 2..md",
     "SRE/Часть 1. Теория.md",
-    "SRE/Часть 4. Observability.md",
     "SRE/скрины/Pasted image 20261029163731.png",
     "SRE/скрины/Pasted image 20261029163423.png",
     "SRE/скрины/Pasted image 20261029163204.png",
@@ -215,7 +216,6 @@
     "SRE/скрины/Pasted image 20261029162341.png",
     "SRE/скрины/Pasted image 20261029161745.png",
     "SRE/скрины/Pasted image 20261029161617.png",
-    "SRE/скрины/Pasted image 20261029160732.png",
     "SRE/Часть 3. Error budget.md",
     "Monitoring/5. Custom exporter.md",
     "SRE/Без названия",
