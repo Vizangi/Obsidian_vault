@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SRE/Часть 6. Инциденты.md",
+                "file": "SRE/Часть 8. Toil.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Часть 6. Инциденты"
+              "title": "Часть 8. Toil"
             }
           },
           {
@@ -202,19 +202,20 @@
   },
   "active": "efb14369bd0c335a",
   "lastOpenFiles": [
+    "Pasted image 20261112161514.png",
+    "Pasted image 20261112161132.png",
+    "SRE/Часть 6. Инциденты.md",
+    "SRE/Часть 8. Toil.md",
     "Pasted image 20261105162901.png",
     "Pasted image 20261105162155.png",
     "Pasted image 20261105161137.png",
     "SRE/Часть 5. SRE Foundation.md",
-    "SRE/Часть 6. Инциденты.md",
     "SRE/скрины/Pasted image 20261102173448.png",
     "SRE/скрины/Pasted image 20261102173231.png",
     "SRE/скрины/Pasted image 20261102172913.png",
     "SRE/скрины/Pasted image 20261102172837.png",
     "SRE/скрины/Pasted image 20261102171539.png",
     "SRE/скрины/Pasted image 20261102171303.png",
-    "SRE/скрины/Pasted image 20261102170657.png",
-    "SRE/скрины/Pasted image 20261102170406.png",
     "SRE/Часть 4. Observability.md",
     "SRE/Часть 2..md",
     "SRE/Часть 1. Теория.md",
@@ -244,7 +245,6 @@
     "Slurm/Kubernetes. Базовый уровнь/2.6 Deployment.md",
     "Slurm/Kubernetes. Базовый уровнь/2.5 ReplicaSet.md",
     "Библиотека/Шаблоны/Шаблон книги.md.md",
-    "Библиотека/Через много лет. Олдос Хаксли/Через много лет. Олдос Хаксли..md",
     "Библиотека/Через много лет. Олдос Хаксли",
     "Библиотека/Шаблоны",
     "Без названия.base",
