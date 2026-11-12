@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SRE/Часть 8. Toil.md",
+                "file": "Без названия.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Часть 8. Toil"
+              "title": "Без названия"
             }
           },
           {
@@ -202,19 +202,20 @@
   },
   "active": "efb14369bd0c335a",
   "lastOpenFiles": [
-    "Pasted image 20261112175049.png",
-    "Pasted image 20261112175047.png",
-    "Pasted image 20261112175037.png",
-    "Pasted image 20261112164000.png",
-    "Pasted image 20261112162648.png",
-    "Pasted image 20261112162408.png",
-    "Pasted image 20261112161721.png",
-    "Pasted image 20261112161514.png",
-    "Pasted image 20261112161132.png",
-    "SRE/Часть 6. Инциденты.md",
+    "Pasted image 20261112180631.png",
+    "SRE/скрины/Pasted image 20261105161137.png",
+    "Без названия.md",
     "SRE/Часть 8. Toil.md",
-    "Pasted image 20261105162901.png",
-    "Pasted image 20261105162155.png",
+    "SRE/скрины/Pasted image 20261112175049.png",
+    "SRE/скрины/Pasted image 20261112175047.png",
+    "SRE/скрины/Pasted image 20261112175037.png",
+    "SRE/скрины/Pasted image 20261112164000.png",
+    "SRE/скрины/Pasted image 20261112162648.png",
+    "SRE/скрины/Pasted image 20261112162408.png",
+    "SRE/скрины/Pasted image 20261112161721.png",
+    "SRE/скрины/Pasted image 20261112161514.png",
+    "SRE/скрины/Pasted image 20261112161132.png",
+    "SRE/Часть 6. Инциденты.md",
     "SRE/Часть 5. SRE Foundation.md",
     "SRE/Часть 4. Observability.md",
     "SRE/Часть 2..md",
@@ -244,7 +245,6 @@
     "Slurm/Kubernetes. Базовый уровнь/2.7 Проверки работоспособности и Ресурсы.md",
     "Slurm/Kubernetes. Базовый уровнь/2.6 Deployment.md",
     "Slurm/Kubernetes. Базовый уровнь/2.5 ReplicaSet.md",
-    "Библиотека/Шаблоны/Шаблон книги.md.md",
     "Библиотека/Через много лет. Олдос Хаксли",
     "Библиотека/Шаблоны",
     "Без названия.base",
